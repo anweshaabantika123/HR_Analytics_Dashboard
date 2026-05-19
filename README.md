@@ -3,7 +3,7 @@ The HR Analytics Dashboard is an interactive data visualization project designed
 
 ## 📸 Dashboard Preview
 
-![Dashboard](screenshot/HR_Analytics_Dashboard.png)
+![Dashboard](screenshot/Dashboard.png)
 
 Tools & Technologies Used
 -  Microsoft Excel
