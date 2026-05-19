@@ -14,7 +14,7 @@ Key Performance Indicators (KPIs)
 - Attrition Count: 237
 - Attrition Rate: 16.12%
 - Average Employee Age: 37
-- Job Satisfaction Rating: 2.6 / 5
+- Job Satisfaction Rating: 2.6 / 4
 
 Key Insights
 - Highest attrition observed in the R&D department
