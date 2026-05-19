@@ -23,7 +23,7 @@ Key Insights
 - Frequent business travel contributed to increased attrition
 - Laboratory Technicians and Sales Executives showed higher employee turnover
 - Bachelor's Degree showed highest attirition
-- In Total Employees, 60% employees are male and 40% employees are female.
+- In Total Employees, 60% employees are male and 40% employees are female
 
 Conclusion
 
